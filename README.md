@@ -16,3 +16,4 @@ Friday, Thursday and Monday appears to the days of the week with the highest tra
 While Saturday seems to have the lowest transaction 
 10AM has the highest transaction hour probably due to the rush hour
 While the lowest transaction hour is 6AM
+Coffee is the most purchased product category. While packaged chocolate 
