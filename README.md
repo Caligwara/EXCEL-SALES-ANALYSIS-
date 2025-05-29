@@ -16,4 +16,21 @@ Friday, Thursday and Monday appears to the days of the week with the highest tra
 While Saturday seems to have the lowest transaction 
 10AM has the highest transaction hour probably due to the rush hour
 While the lowest transaction hour is 6AM
-Coffee is the most purchased product category. While packaged chocolate 
+Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
+
+###  Based on Store Location 
+ASTORIA
+
+The report shows the month with the highest revenue to be June 
+Thursday appears to the day of the week with the highest transaction 
+While Saturday seems to have the lowest transaction 
+10AM has the highest transaction hour probably due to the rush hour
+While the lowest transaction hour is 2PM(14:00)
+Coffee is the most purchased product category. 
+Coffee Beans, Loose Tea, Branded have low sales 
+and packaged chocolate has no transactions
+
+The top 3 products are Brewed Chai tea, Gourmet brewed coffee and Barrister Espresso 
+While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
+
+
