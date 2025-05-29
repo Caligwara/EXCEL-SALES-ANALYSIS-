@@ -68,4 +68,10 @@ Lower Manhattan store's has a monthly revenue of in the month of June.
 
 ## Conclusion/Recommendations 
 
+This project has highlighted some insights into customers interest and time of purchase. Products like should stop being sold so as to save money and channel the income in the purchase of more Coffee. 
+Lower Manhattan and would have to close early in other to save up operations cost as less sales are made by 7PM AND 8PM. Lower Manhattan would have to produce less coffee or products during the weekend, and use more of the resources on Monday.
+Generally, should be less in quantity as they have limited sales in all stores. 
+
+This project shows how data analysis can project lapses from this coffee stores and provide ways the various stores can be more efficient and productive, by reducing liabilities and investing on more assets to boost sales. 
  
+
