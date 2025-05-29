@@ -61,8 +61,11 @@ and packaged chocolate has no transactions
 The top 3 products are Barista Espresso, Gourmet brewed coffee and Brewed Chai tea
 While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
 
+From this report, Hell's Kitchen has the highest revenue at the month of June at $56,9
+follows suit at
+Lower Manhattan store's has a monthly revenue of in the month of June. 
 
 
-
+## Conclusion/Recommendations 
 
  
