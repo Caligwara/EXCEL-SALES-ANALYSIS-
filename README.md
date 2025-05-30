@@ -1,22 +1,66 @@
 # EXCEL-SALES-ANALYSIS-
 
+Project Title: Coffee Shop Sales Analysis
+
+
+
+Project Overview
+
+This data analysis project is aim to generate insights into the total sales and product performance from a coffee shop and its franchise. Using the various parameters given to analyze, we seek to gather various insights to make compelling insights to make decisions that will improve the performance of the coffee.
+
+Data Sources
+
+The data source is an excel csv. file obtained from mavin analytic.io. This file contains information like, Transaction id, transaction time, transaction date, product id, product category, etc... 
+
+Tools Used
+
+Microsoft Excel for data gathering, data preparation and data analysis
+
+Git Hub for portfolio building
+
+Objectives
+
+Data Preparation: Profile and Prepare data for analysis.
+
+Exploratory Data Analysis (EDA): Perform basic exploratory data analysis with pivot tables.
+
+Visualizations: Build a dynamic dashboard to visualize patterns and trends
+
+Project Structure
+
+1. Data Preparation
+
+Data is prepared by importing the csv file on Excel to understand the data and perform various task like
+
+pic
+
+
+
+2. Data Exploration & Cleaning
+
+Pic
+
+3. Visualizations
+
+Pic
 
 The dashboard shows reports like 
 Total Revenue by Month
 Transaction by Day of Week 
 Transaction by Hour
-Transaction by Product Category
+Transaction by Product Category 
 A Table showing 
 A slicer to filter by store location. 
-The dashboard also has a title THE COFFEE STABLE
+The dashboard also has a title -THE COFFEE STABLE - - 
 
-## INSIGHT
+## FINDINGS
 The general dashboard shows the month with the highest revenue to be June 
 Friday, Thursday and Monday appears to be the days of the week with the highest transaction 
 While Saturday seems to have the lowest transaction 
 10AM has the highest transaction hour probably due to the rush hour
 While the lowest transaction hour is 6AM
 Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
+## INSIGHT 
 
 ###  Based on Store Location 
 ASTORIA
