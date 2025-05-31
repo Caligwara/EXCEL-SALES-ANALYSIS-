@@ -1,24 +1,20 @@
 # EXCEL-SALES-ANALYSIS-
 
-Project Title: Coffee Shop Sales Analysis
+ # Project Title: Coffee Shop Sales Analysis
 
 
-
-Project Overview
-
+## Project Overview
 This data analysis project is aim to generate insights into the total sales and product performance from a coffee shop and its franchise. Using the various parameters given to analyze, we seek to gather various insights to make compelling insights to make decisions that will improve the performance of the coffee.
 
-Data Sources
-
+## Data Sources
 The data source is an excel csv. file obtained from mavin analytic.io. This file contains information like, Transaction id, transaction time, transaction date, product id, product category, etc... 
 
-Tools Used
-
+## Tools Used
 Microsoft Excel for data gathering, data preparation and data analysis
 
 Git Hub for portfolio building
 
-Objectives
+## Objectives
 
 Data Preparation: Profile and Prepare data for analysis.
 
@@ -26,7 +22,7 @@ Exploratory Data Analysis (EDA): Perform basic exploratory data analysis with pi
 
 Visualizations: Build a dynamic dashboard to visualize patterns and trends
 
-Project Structure
+## Project Structure
 
 1. Data Preparation
 
@@ -60,10 +56,10 @@ While Saturday seems to have the lowest transaction
 10AM has the highest transaction hour probably due to the rush hour
 While the lowest transaction hour is 6AM
 Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
-## INSIGHT 
+## Insight
 
 ###  Based on Store Location 
-ASTORIA
+*ASTORIA*
 
 The report shows the month with the highest revenue to be June 
 Thursday appears to be the day of the week with the highest transaction 
