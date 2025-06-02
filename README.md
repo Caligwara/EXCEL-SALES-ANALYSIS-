@@ -73,50 +73,39 @@ The dashboard shows reports which include:
 ## Insight
 
 ###  Based on Store Location 
-*ASTORIA*
+**ASTORIA**
+![Screenshot (61)](https://github.com/user-attachments/assets/68a71286-0762-4c16-9a5f-106a75b55dba)
 
-The report shows the month with the highest revenue to be June 
-Thursday appears to be the day of the week with the highest transaction 
-While Saturday seems to have the lowest transaction 
-10AM has the highest transaction hour probably due to the rush hour
-While the lowest transaction hour is 2PM(14:00)
-Coffee is the most purchased product category. 
-Coffee Beans, Loose Tea, Branded have low sales 
-and packaged chocolate has no transactions
-
-The top 3 products are Brewed Chai tea, Gourmet brewed coffee and Barrister Espresso 
-While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
+- The report shows the month with the highest revenue to be June.
+-Thursday appears to be the day of the week with the highest transaction.While Saturday seems to have the lowest transaction. 
+- 10AM has the highest transaction hour probably due to the rush hour.While the lowest transaction hour is 2PM(14:00).
+- Coffee is the most purchased product category. 
+- Coffee Beans, Loose Tea, Branded have low sales.and packaged chocolate has no transactions.
+- The top 3 products are Brewed Chai tea, Gourmet brewed coffee and Barrister Espresso.While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
 
 
-HELL'S KITCHEN 
-The month June consistently appears to have the highest revenue 
-Tuesday and Friday both have the highest transaction 
-While Sunday has lowest transaction.. 
-10AM remains the highest transaction hour and is tightly followed by 9AM, 8AM and 7AM
-While the lowest transaction hour is 8PM(20:00)
-Coffee is the most purchased product category. 
-Coffee Beans, Loose Tea  have low sales 
-and packaged chocolate, Branded have no sales in this store. 
+**HELL'S KITCHEN**
 
-The top 3 products are Barrister Espresso, Brewed Chai tea and Gourmet brewed coffee
-While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold.
+![Screenshot (63)](https://github.com/user-attachments/assets/43cb97f5-af50-4f1d-9d5a-d73430ada169)
+
+The top 3 products are Barista Espress
+- The month June consistently appears to have the highest revenue. 
+- Tuesday and Friday both have the highest transaction.While Sunday has lowest transaction.
+- 10AM remains the highest transaction hour and is tightly followed by 9AM, 8AM and 7AM.While the lowest transaction hour is 8PM(20:00).
+- Coffee is the most purchased product category. 
+- Coffee Beans, Loose Tea  have low sale and packaged chocolate, Branded have no sales in this store. 
+- The top 3 products are Barrister Espresso, Brewed Chai tea and Gourmet brewed coffee.While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold.
 
 LOWER MANHATTAN 
 
-The report shows June to be  the month with the highest revenue 
-Monday appears to be the day of the week with the highest transaction 
-While Sunday has lowest transaction.. 
-10AM remains the highest transaction hour
-While the lowest transaction hour  are 7PM (19:00) and 8PM (20:00)
-Coffee is the most purchased product category. 
-Coffee Beans, Loose Tea, Branded have low sales 
-and packaged chocolate has no transactions
-![Screenshot (60)](https://github.com/user-attachments/assets/1bcc810b-283a-4c6d-bf56-560d941bf978)
-![Screenshot (61)](https://github.com/user-attachments/assets/68a71286-0762-4c16-9a5f-106a75b55dba)
 ![Screenshot (62)](https://github.com/user-attachments/assets/0ab1dc53-8e91-4538-9636-bbdb54f34f8e)
-![Screenshot (63)](https://github.com/user-attachments/assets/43cb97f5-af50-4f1d-9d5a-d73430ada169)
 
-The top 3 products are Barista Espresso, Gourmet brewed coffee and Brewed Chai tea
+- The report shows June to be  the month with the highest revenue.
+- Monday appears to be the day of the week with the highest transaction.While Sunday has lowest transaction.
+- 10AM remains the highest transaction hour.While the lowest transaction hour  are 7PM (19:00) and 8PM (20:00).
+- Coffee is the most purchased product category. 
+- Coffee Beans, Loose Tea, Branded have low sales and packaged chocolate has no transactions.
+o, Gourmet brewed coffee and Brewed Chai tea
 While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
 
 From this report, Hell's Kitchen has the highest revenue at the month of June at $56,9
