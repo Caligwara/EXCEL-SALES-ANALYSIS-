@@ -64,12 +64,12 @@ The dashboard shows reports which include:
 
 ![Screenshot (56)](https://github.com/user-attachments/assets/100e4409-5ccf-4575-bef6-31925970411c)
 
-- The dashboard also has a title **THE COFFEE STABLE** 
-- The general dashboard shows the month with the highest revenue to be June 
-- Friday, Thursday and Monday appears to be the days of the week with the highest transaction. While Saturday seems to have the lowest transaction 
-- 10AM has the highest transaction hour probably due to the rush hour. While the lowest transaction hour is 6AM
-- Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
-
+- The dashboard has a title **THE COFFEE STABLE**. 
+- The general dashboard shows the month with the highest revenue to be June .
+- Friday, Thursday and Monday appears to be the days of the week with the highest transaction. While Saturday seems to have the lowest transaction.
+- 10AM has the highest transaction hour probably due to the rush hour. While the lowest transaction hour is 6AM.
+- Coffee is the most purchased product category. While packaged chocolate has the lowest sales.
+  
 ## Insight
 
 ###  Based on Store Location 
@@ -105,19 +105,16 @@ LOWER MANHATTAN
 - 10AM remains the highest transaction hour.While the lowest transaction hour  are 7PM (19:00) and 8PM (20:00).
 - Coffee is the most purchased product category. 
 - Coffee Beans, Loose Tea, Branded have low sales and packaged chocolate has no transactions.
-o, Gourmet brewed coffee and Brewed Chai tea
-While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
+- The top 3 products are Barrister Espresso, Gourmet brewed coffee and Brewed Chai tea.While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
 
-From this report, Hell's Kitchen has the highest revenue at the month of June at $56,9
-follows suit at
-Lower Manhattan store's has a monthly revenue of in the month of June. 
+From this report, Hell's Kitchen has the highest revenue at the month of June at **$56,957**. Astoria follows suit at **$55,083**.
+Lower Manhattan store's has a monthly revenue of **$54,446** in the month of June. 
 
 
 ## Conclusion/Recommendations 
 
-This project has highlighted some insights into customers interest and time of purchase. Products like should stop being sold so as to save money and channel the income in the purchase of more Coffee. 
-Lower Manhattan and would have to close early in other to save up operations cost as less sales are made by 7PM AND 8PM. Lower Manhattan would have to produce less coffee or products during the weekend, and use more of the resources on Monday.
-Generally, should be less in quantity as they have limited sales in all stores. 
+This project has highlighted some insights into customers interest and time of purchase. Products like  Coffee Beans, Loose Tea, Branded have and packaged chocolate, should stop being sold so as to save money and channel the income in the purchase of more Coffee. 
+Lower Manhattan and would have to close early in other to save up operations cost as less sales are made by 7PM AND 8PM. Lower Manhattan would have to produce less coffee or products during the weekend, and use more of the resources on monday.
 
 This project shows how data analysis can project lapses from this coffee stores and provide ways the various stores can be more efficient and productive, by reducing liabilities and investing in more assets to boost sales. 
  
