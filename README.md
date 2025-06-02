@@ -114,6 +114,10 @@ While the lowest transaction hour  are 7PM (19:00) and 8PM (20:00)
 Coffee is the most purchased product category. 
 Coffee Beans, Loose Tea, Branded have low sales 
 and packaged chocolate has no transactions
+![Screenshot (60)](https://github.com/user-attachments/assets/1bcc810b-283a-4c6d-bf56-560d941bf978)
+![Screenshot (61)](https://github.com/user-attachments/assets/68a71286-0762-4c16-9a5f-106a75b55dba)
+![Screenshot (62)](https://github.com/user-attachments/assets/0ab1dc53-8e91-4538-9636-bbdb54f34f8e)
+![Screenshot (63)](https://github.com/user-attachments/assets/43cb97f5-af50-4f1d-9d5a-d73430ada169)
 
 The top 3 products are Barista Espresso, Gourmet brewed coffee and Brewed Chai tea
 While Biscotti, Regular syrup and sugar free syrup are the bottom 3 products being sold. 
