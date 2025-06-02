@@ -88,7 +88,6 @@ The dashboard shows reports which include:
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/43cb97f5-af50-4f1d-9d5a-d73430ada169)
 
-The top 3 products are Barista Espress
 - The month June consistently appears to have the highest revenue. 
 - Tuesday and Friday both have the highest transaction.While Sunday has lowest transaction.
 - 10AM remains the highest transaction hour and is tightly followed by 9AM, 8AM and 7AM.While the lowest transaction hour is 8PM(20:00).
