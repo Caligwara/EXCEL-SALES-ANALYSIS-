@@ -10,69 +10,66 @@ This data analysis project is aim to generate insights into the total sales and 
 The data source is an excel csv. file obtained from mavin analytic.io. This file contains information like, Transaction id, transaction time, transaction date, product id, product category, etc... 
 
 ## Tools Used
-Microsoft Excel for data gathering, data preparation and data analysis
-
-Git Hub for portfolio building
+- Microsoft Excel for data gathering, data preparation and data analysis
+- Git Hub for portfolio building
 
 ## Objectives
 
-Data Preparation: Profile and Prepare data for analysis.
+- Data Preparation: Profile and Prepare data for analysis.
 
-Exploratory Data Analysis (EDA): Perform basic exploratory data analysis with pivot tables.
+- Exploratory Data Analysis (EDA): Perform basic exploratory data analysis with pivot tables.
 
-Visualizations: Build a dynamic dashboard to visualize patterns and trends
+- Visualizations: Build a dynamic dashboard to visualize patterns and trends
 
 ## Project Structure
 
 1. Data Preparation
+
+ ![Screenshot (29)](https://github.com/user-attachments/assets/a377644d-eb80-4ef9-a34f-d43487564678)
+
 - Taking a moment to familiarize with the data.
 - Add a new column to calculate Revenue (`price*quantity`)
 - Add new columns to calculate Month and Day of Week based on the transaction date (`month function , week function`)
-- Add a new column to extract Hour from the transaction time (hour function)
+- Add a new column to extract Hour from the transaction time (`hour function`)
 
-pic
-![Screenshot (29)](https://github.com/user-attachments/assets/a377644d-eb80-4ef9-a34f-d43487564678)
-
-![Screenshot (34)](https://github.com/user-attachments/assets/ef8e25d9-dfd1-40a1-92d8-7602004d850f)
 
 2. Data Exploration With Pivot Table
 - Insert a PivotTable on a new tab to show revenue by month
 - Add two more PivotTable to show the number of transactions by day of week and by hour of day
 - Add a PivotTable  to show the number of transactions by product category sorted descending by transactions
 - Add a PivotTable  to show the number of transactions and revenue byproduct type, sorted descending and filtered to the Top 15 by transactions
-![Screenshot (56)](https://github.com/user-attachments/assets/100e4409-5ccf-4575-bef6-31925970411c)
-
-
-
 
 
 3. Visualizations
-Add Pivot Charts to show revenue by month as a line chart, transactions by day of week and hour of day as column charts, and transactions by product category as a bar chart
-Assemble the charts into a rough dashboard layout, and include space for the PivotTableshowing Top 15 product types (you can design your own layout, or follow the solution)
-Add a slicer for store location, and connect it to all of the PivotTables on the sheet
-Adjust formatting. alignment and polish to finalize the dashboard
+- Add Pivot Charts to show revenue by month as a line chart. Then transactions by day of week and hour of day as column charts, and transactions by product category as a bar chart.
+- Assemble the charts into a rough dashboard layout, and include space for the PivotTableshowing Top 15 product types. 
+- Add a slicer for store location, and connect it to all of the PivotTables on the sheet.
+- Adjust formatting. alignment and polish to finalize the dashboard.
 
 
 
+![Screenshot (34)](https://github.com/user-attachments/assets/ef8e25d9-dfd1-40a1-92d8-7602004d850f)
 
-Pic
 
-The dashboard shows reports like 
-Total Revenue by Month
-Transaction by Day of Week 
-Transaction by Hour
-Transaction by Product Category 
-A Table showing 
-A slicer to filter by store location. 
-The dashboard also has a title -THE COFFEE STABLE - - 
+The dashboard shows reports which include:
+- Total Revenue by Month
+- Transaction by Day of Week 
+- Transaction by Hour
+- Transaction by Product Category 
+- A pivot table showing top 15 product types 
+- A slicer to filter by store location. 
+
 
 ## FINDINGS
-The general dashboard shows the month with the highest revenue to be June 
-Friday, Thursday and Monday appears to be the days of the week with the highest transaction 
-While Saturday seems to have the lowest transaction 
-10AM has the highest transaction hour probably due to the rush hour
-While the lowest transaction hour is 6AM
-Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
+
+![Screenshot (56)](https://github.com/user-attachments/assets/100e4409-5ccf-4575-bef6-31925970411c)
+
+- The dashboard also has a title **THE COFFEE STABLE** 
+- The general dashboard shows the month with the highest revenue to be June 
+- Friday, Thursday and Monday appears to be the days of the week with the highest transaction. While Saturday seems to have the lowest transaction 
+- 10AM has the highest transaction hour probably due to the rush hour. While the lowest transaction hour is 6AM
+- Coffee is the most purchased product category. While packaged chocolate has the lowest sales 
+
 ## Insight
 
 ###  Based on Store Location 
